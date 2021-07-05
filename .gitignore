@@ -1,0 +1,6 @@
+
+# ignore all the image
+images/
+
+# ignore all the third party project file
+other_third_party_project/

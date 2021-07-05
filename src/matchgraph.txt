@@ -1,0 +1,31 @@
+graph matches_graph{
+"ICL_8111.JPG" -- "ICL_8116.JPG"[label="Nm=23, Ni=19, C=1.27517"];
+"ICL_8111.JPG" -- "ICL_8161.JPG"[label="Nm=28, Ni=20, C=1.21951"];
+"ICL_8116.JPG" -- "ICL_8121.JPG"[label="Nm=38, Ni=31, C=1.59794"];
+"ICL_8116.JPG" -- "ICL_8166.JPG"[label="Nm=30, Ni=30, C=1.76471"];
+"ICL_8116.JPG" -- "ICL_8171.JPG"[label="Nm=22, Ni=20, C=1.36986"];
+"ICL_8126.JPG" -- "ICL_8131.JPG"[label="Nm=80, Ni=79, C=2.46875"];
+"ICL_8126.JPG" -- "ICL_8176.JPG"[label="Nm=66, Ni=57, C=2.05036"];
+"ICL_8126.JPG" -- "ICL_8181.JPG"[label="Nm=83, Ni=83, C=2.5228"];
+"ICL_8131.JPG" -- "ICL_8186.JPG"[label="Nm=151, Ni=131, C=2.45779"];
+"ICL_8136.JPG" -- "ICL_8141.JPG"[label="Nm=44, Ni=35, C=1.65094"];
+"ICL_8136.JPG" -- "ICL_8181.JPG"[label="Nm=204, Ni=190, C=2.74566"];
+"ICL_8136.JPG" -- "ICL_8191.JPG"[label="Nm=24, Ni=21, C=1.38158"];
+"ICL_8146.JPG" -- "ICL_8151.JPG"[label="Nm=30, Ni=28, C=1.64706"];
+"ICL_8151.JPG" -- "ICL_8156.JPG"[label="Nm=41, Ni=37, C=1.82266"];
+"ICL_8151.JPG" -- "ICL_8206.JPG"[label="Nm=47, Ni=41, C=1.8552"];
+"ICL_8151.JPG" -- "ICL_8211.JPG"[label="Nm=23, Ni=23, C=1.54362"];
+"ICL_8161.JPG" -- "ICL_8211.JPG"[label="Nm=161, Ni=148, C=2.62877"];
+"ICL_8161.JPG" -- "ICL_8221.JPG"[label="Nm=158, Ni=144, C=2.59928"];
+"ICL_8161.JPG" -- "ICL_8226.JPG"[label="Nm=119, Ni=119, C=2.72311"];
+"ICL_8161.JPG" -- "ICL_8271.JPG"[label="Nm=39, Ni=39, C=1.9797"];
+"ICL_8166.JPG" -- "ICL_8231.JPG"[label="Nm=60, Ni=60, C=2.30769"];
+"ICL_8171.JPG" -- "ICL_8176.JPG"[label="Nm=142, Ni=128, C=2.52964"];
+"ICL_8171.JPG" -- "ICL_8236.JPG"[label="Nm=36, Ni=36, C=1.91489"];
+"ICL_8191.JPG" -- "ICL_8196.JPG"[label="Nm=136, Ni=107, C=2.19262"];
+"ICL_8191.JPG" -- "ICL_8256.JPG"[label="Nm=74, Ni=68, C=2.25166"];
+"ICL_8191.JPG" -- "ICL_8261.JPG"[label="Nm=50, Ni=48, C=2.08696"];
+"ICL_8206.JPG" -- "ICL_8266.JPG"[label="Nm=20, Ni=20, C=1.42857"];
+"ICL_8236.JPG" -- "ICL_8241.JPG"[label="Nm=48, Ni=45, C=2.00893"];
+"ICL_8251.JPG" -- "ICL_8256.JPG"[label="Nm=23, Ni=16, C=1.07383"];
+}
